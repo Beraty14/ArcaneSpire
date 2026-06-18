@@ -1,0 +1,4 @@
+/bin/
+/sav/
+*.class
+.DS_Store
